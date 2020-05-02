@@ -14,6 +14,7 @@ const validate = (val) => {
 
 	let reValidEmail = new RegExp(sValidEmail);
 
+
 	return reValidEmail.test(val);
 };
 
