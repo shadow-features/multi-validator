@@ -1,0 +1,24 @@
+{
+	"name": "@multi-validator/email",
+	"version": "1.0.0",
+	"private": false,
+	"author": "Shadow Features Team",
+	"description": "",
+	"main": "index.js",
+	"keywords": [
+		"validate",
+		"email"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shadow-features/multi-validator",
+		"directory": "packages/email"
+	},
+	"license": "MIT",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"engines": {
+		"node": ">=8.0.0"
+	}
+}
