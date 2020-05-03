@@ -1,1 +1,1 @@
-[![NPM version][npm-version-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-url] [![MIT License][license-image]][license-url]
+![npm](https://img.shields.io/npm/v/@multi-validator/url)  ![npm](https://img.shields.io/npm/dm/@multi-validator/url) ![NPM](https://img.shields.io/npm/l/@multi-validator/url)
